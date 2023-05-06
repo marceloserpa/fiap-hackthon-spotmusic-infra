@@ -1,0 +1,1 @@
+# fiap-hackthon-spotmusic-infra
